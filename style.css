@@ -72,15 +72,23 @@ main {
 }
 
 .btn-purple {
-  background-color: #9C72E4;
+  background-color: #9c72e4;
 }
 
 .btn-green {
-  background-color: #64C0A9;
+  background-color: #64c0a9;
 }
 
 .btn-orange {
-  background-color: #F29E33;
+  background-color: #f29e33;
+}
+
+.btn-pink {
+  background-color: #d863a1;
+}
+
+.btn-lightgreen {
+  background-color: #b0c926;
 }
 
 .btn-todo {
@@ -114,6 +122,7 @@ hr {
 
 .todo-title:before {
   content: "\25BC";
+  font-size: 14px;
 }
 
 .todo-activity {
@@ -136,10 +145,10 @@ hr {
 
 .positive {
   color: #67c3ad;
-  border-color:#67c3ad;
+  border-color: #67c3ad;
 }
 
 .negative {
   color: #ee736e;
-  border-color:#EE736E
+  border-color: #ee736e;
 }
